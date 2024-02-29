@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- Title -->
+<h1 align="center" title="Happy to meet you friend :)"> Hello! I'm 5p4c351ck</h1>
 
-<!--
-**5p4c351ck/5p4c351ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+<blockquote>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, my name is Kostas.
+
+I'm a technophile, Artist and sci-fi enthusiast currently based in Greece.
+
+I am especially passionate about computers. You'll often find me programming, tinkering, and experimenting with technology, currently, I'm busy building a homelab for learning and fun.
+
+Some of my other interests include, Cyberpunk literature, Space, and Philosophy.
+
+</blockquote>
+
+----
+
