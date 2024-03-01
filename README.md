@@ -18,4 +18,3 @@
 
 ----
 
-<p align="center"><a href="https://5p4c351ck.github.io/MACHINES/" style="color:#df63e0;" ><strong>Link</a></p>
