@@ -12,7 +12,7 @@
 
 **I am especially passionate about computers. You'll often find me programming, tinkering, and experimenting with emerging technologies.**
 
-**I am a firm advocate for Web3 principles and decentralized networks, deeply engaged in the potential of blockchain, smart contracts, and the transformative power of decentralized systems to revolutionize the internet and empower individuals.**
+**I have a deep passion for low-level programming, retro computers, assembly, C, and OS development.**
 
 **Some of my other interests include, Cyberpunk literature, Space, and Philosophy.**
 
