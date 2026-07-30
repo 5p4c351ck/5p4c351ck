@@ -12,7 +12,7 @@
 
 **I am especially passionate about computers. You'll often find me programming, tinkering, and experimenting with emerging technologies.**
 
-**I have a deep passion for Computer Science and Mathematics, with a particular interest in pure functional programming and Haskell.**
+**I've got a deep passion for low-level systems programming in C, alongside a casual appreciation for pure functional concepts.**
 
 **Some of my other interests include, science fiction literature, Space, and Philosophy.**
 
